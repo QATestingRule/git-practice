@@ -6,5 +6,8 @@ print("test1, good bye")
 print("test2, Hi!!")
 
 print("Hello, Ricky")
+print("task2")
 print("task8")
 print("task9")
+
+
